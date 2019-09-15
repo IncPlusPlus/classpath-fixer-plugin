@@ -1,11 +1,11 @@
 <idea-plugin>
     <id>io.github.incplusplus.classpath-fixer-plugin</id>
-    <name>Plugin display name here</name>
-    <vendor email="support@yourcompany.com" url="http://www.yourcompany.com">YourCompany</vendor>
+    <name>Classpath Fixer</name>
+    <vendor email="cloherty.ryan@gmail.com" url="http://incplusplus.github.io">IncPlusPlus</vendor>
 
     <description><![CDATA[
-    Enter short description for your plugin here.<br>
-    <em>most HTML tags may be used</em>
+    Import bundle JARs from a .classpath file.<br>
+    <em>example_tag</em>
     ]]></description>
 
     <!-- please see http://www.jetbrains.org/intellij/sdk/docs/basics/getting_started/plugin_compatibility.html
